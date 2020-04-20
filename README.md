@@ -1,0 +1,2 @@
+# wikitest
+Test wiki
